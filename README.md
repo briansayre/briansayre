@@ -13,7 +13,7 @@ const brian = {
 }
 ```
 
-### ♪ Brian's recent top Spotify tracks
+### ♪ Brian's recent top Spotify tracks ♪ 
 <!-- top_tracks starts -->
 <b>"I Don't Think I'm Okay"</b> by Bazzi<br>
 <b>"IMPORTED (with 6LACK)"</b> by Jessie Reyez<br>
