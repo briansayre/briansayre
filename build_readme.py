@@ -39,7 +39,7 @@ def fetch_spotify(oauth_token):
             uris.append(i)
             print(f"\"{i['name']}\" by {i['artists'][0]['name']}")
             print(i['album']['images'][len(i['album']['images'])-1]['url'])
-            ret.append("<tr> <td> <img src=\""+ i['album']['images'][len(i['album']['images'])-1]['url'] + "\"> </td> <td> <b>\"" + i['name'] + "\"</b> by " + i['artists'][0]['name']+ "<br> </td> </tr>")
+            ret.append("<tr> <td> <img src=\""+ i['album']['images'][len(i['album']['images'])-1]['url'] + "\"> </td> <td> <b>\"" + i['name'] + "\"</b> by " + i['artists'][0]['name']+ "</td> </tr>")
     print("-----------------------")
     
     return ret
