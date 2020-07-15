@@ -8,6 +8,10 @@ from spotipy.oauth2 import SpotifyOAuth
 
 root = pathlib.Path(__file__).parent.resolve()
 
+SPOTIPY_CLIENT_ID = os.getenv('SPOTIPY_CLIENT_ID')
+SPOTIPY_CLIENT_SECRET = os.getenv('SPOTIPY_CLIENT_SECRET')
+SPOTIPY_REDIRECT_URI = os.getenv('SPOTIPY_REDIRECT_URI')
+
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
@@ -23,7 +27,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_spotify_top_tracks():
     tracks = []
     scope = "user-top-read"
-    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope, username="thebriansayre"))
+    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope, username="thebriansayre", client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET, redirect_uri=SPOTIPY_REDIRECT_URI))
     results = sp.current_user_top_tracks(limit=3, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
