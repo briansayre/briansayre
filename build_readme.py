@@ -30,7 +30,7 @@ def fetch_spotify(oauth_token):
 
     response = requests.get(query,
                 headers={"Content-Type": "application/json",
-                            "Authorization": "Bearer BQA2UKNlYtinhusPBDKHEbHWX4HIIVQqN0EA9iZ2btSOI3-7ETbtCCXpk6pZYF-3KMRdaR_7t9PzEKp5ohrPP6u2vznMGqH-zM5eO9gz9uqDPzYsEVm0qeWonD6VOB4u4a7AyEj6KWeYFvI3EXaW1d4aWwqpbzf8WQruM1L7pov9jrjRTpwQkFu4yO2uN1yp5eurVbveKmQATb1D7EPqxMcZ1YWB-Vdy3q2Lymvy7aWj3Ii27yRWnNSJTgnVTz-6OMqo3DiOOatEbauekMIQ"})
+                            "Authorization": "Bearer BQBh--_VkZlE-5-ar1WmoUeLFaENACjm4r2K8LpUEcY_RGXQnxoyWROuiY3lL3MTE-bDbYpb0yNGyIeQCphWCFh8fgaZ9i7XdiMCVFIvWjl-KDmBN0i5nW7a5t0aThe5v_HL62kWxHTAr8IQJkh8QtPSUbfzhq02WTXs3ZNAg0Xrdf849RRPUossQ-LK5n05Ly8Z55I8Bjr1XkR3yncYki_BYwaPhn7X0zqR1Vn8e0tAj3VaFWG5dWPSMG_prOkicVyjw9vb2mxAv2y7TyqH"})
     json_response = response.json()
     uris = []
     # print(json_response)
@@ -38,7 +38,8 @@ def fetch_spotify(oauth_token):
     for i in json_response['items']:
             uris.append(i)
             print(f"\"{i['name']}\" by {i['artists'][0]['name']}")
-            ret.append("<b>\"" + i['name'] + "\"</b> by " + i['artists'][0]['name']+ "<br>")
+            print(i['album']['images'][len(i['album']['images'])-1]['url'])
+            ret.append("<tr> <td> <img src=\""+ i['album']['images'][len(i['album']['images'])-1]['url'] + "\"> </td> <td> <b>\"" + i['name'] + "\"</b> by " + i['artists'][0]['name']+ "<br> </td> </tr>")
     print("-----------------------")
     
     return ret
