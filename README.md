@@ -13,16 +13,11 @@ const brian = {
 }
 ```
 
-<table><tr><td valign="top">
-
-### Recent releases
+### ♪ Brian's recent top Spotify tracks
 <!-- top_tracks starts -->
 <b>"I Don't Think I'm Okay"</b> by Bazzi<br>
 <b>"IMPORTED (with 6LACK)"</b> by Jessie Reyez<br>
 <b>"Love Me Less (feat. Quinn XCII)"</b> by MAX<br>
 <!-- top_tracks ends -->
-</td>
-
-</tr></table>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
