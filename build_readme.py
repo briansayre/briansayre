@@ -8,7 +8,7 @@ root = pathlib.Path(__file__).parent.resolve()
 
 
 # TOKEN = os.environ.get("SIMONW_TOKEN", "")
-limit = 3
+limit = 5
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
