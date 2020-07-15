@@ -38,7 +38,7 @@ def fetch_spotify(oauth_token):
     for i in json_response['items']:
             uris.append(i)
             print(f"\"{i['name']}\" by {i['artists'][0]['name']}")
-            ret.append("\"" + i['name'] + "\" by " + i['artists'][0]['name'])
+            ret.append("<b>\"" + i['name'] + "\"</b> by " + i['artists'][0]['name']+ "<br>")
     print("-----------------------")
     
     return ret
@@ -48,7 +48,7 @@ def fetch_spotify(oauth_token):
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    res = fetch_spotify(TOKEN)
+    res = fetch_spotify("EN")
     # print(res.json())
     # releases.sort(key=lambda r: r["published_at"], reverse=True)
     

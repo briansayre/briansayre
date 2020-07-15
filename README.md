@@ -17,9 +17,9 @@ const brian = {
 
 ### Recent releases
 <!-- top_tracks starts -->
-"I Don't Think I'm Okay" by Bazzi
-"IMPORTED (with 6LACK)" by Jessie Reyez
-"Love Me Less (feat. Quinn XCII)" by MAX
+<b>"I Don't Think I'm Okay"</b> by Bazzi<br>
+<b>"IMPORTED (with 6LACK)"</b> by Jessie Reyez<br>
+<b>"Love Me Less (feat. Quinn XCII)"</b> by MAX<br>
 <!-- top_tracks ends -->
 </td>
 
