@@ -30,7 +30,7 @@ def fetch_spotify(oauth_token):
 
     response = requests.get(query,
                 headers={"Content-Type": "application/json",
-                            "Authorization": "Bearer BQBh--_VkZlE-5-ar1WmoUeLFaENACjm4r2K8LpUEcY_RGXQnxoyWROuiY3lL3MTE-bDbYpb0yNGyIeQCphWCFh8fgaZ9i7XdiMCVFIvWjl-KDmBN0i5nW7a5t0aThe5v_HL62kWxHTAr8IQJkh8QtPSUbfzhq02WTXs3ZNAg0Xrdf849RRPUossQ-LK5n05Ly8Z55I8Bjr1XkR3yncYki_BYwaPhn7X0zqR1Vn8e0tAj3VaFWG5dWPSMG_prOkicVyjw9vb2mxAv2y7TyqH"})
+                            "Authorization": "Bearer BQB4Gr0hxRclX9Jbjj0HEbairCxEqr7F7KEMHgLH3aDyd6_MmCQqqOkNnTcg_MmsRgDd9sfAAQT5EUz3v2LAbzMzlVXC4UFIBvQBIOSHAhRTdsianzhOuU1_mlRa2QaPueS9YfgFeB9J02Xi2s0VkzH6RkEwIBHlxttITdEpbxSoQyZzydf86eiY82D76kvp-_ceOfQXlL-FX3AhCFL1Yybrq3-5ufJ4aIKLa_Y8xg70g-d_5pV4AfReRF6H4Led2OJV4VVTY4ne2M5QM6vJ"})
     json_response = response.json()
     uris = []
     # print(json_response)
