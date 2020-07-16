@@ -64,7 +64,7 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     now = datetime.now()
     dt_string = now.strftime("%m/%d/%Y %H:%M:%S")
-    last_updated = ("Last updated: " + dt_string)
+    last_updated = ("Tracks last updated: " + dt_string)
     rewritten = replace_chunk(readme_contents, "last_updated", last_updated)
 
     readme.open("w").write(rewritten)
