@@ -2,14 +2,20 @@
 
 ```javascript
 const brian = {
-  pronouns: "he" | "him",
-  code: ["Java", "Python", "C", "JavaScipt", "HTML", "CSS"],
-  tools: ["AWS", "React"],
-  sites: ["briansayre.com", "bit.ly/simplmeals"],
-  contacts: {
-                email: "bsayre@iastate.edu",
-                phone: "3198045234"
-            },
+    pronouns: "he" | "him" | "his",
+    code: ["Java", "Python", "C", "JavaScipt", "HTML", "CSS"],
+    tools: ["AWS", "React"],
+    sites: ["briansayre.com", "bit.ly/simplmeals"],
+    hobbies: ["👨‍💻", "⛹️‍♂️", "🍳"],
+    contacts: {
+        email: "bsayre@iastate.edu",
+        phone: "3198045234"
+    },
+    education: {
+        school: "Iowa State Unversity",
+        major: "Software Engineering",
+        inProgress: true
+    },
 }
 ```
 
