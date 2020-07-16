@@ -1,15 +1,16 @@
-import pathlib
 import re
 import os
+
+import pathlib
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from datetime import (datetime, timedelta)
 
 root = pathlib.Path(__file__).parent.resolve()
-
 SPOTIPY_CLIENT_ID = os.getenv('SPOTIPY_CLIENT_ID')
 SPOTIPY_CLIENT_SECRET = os.getenv('SPOTIPY_CLIENT_SECRET')
 SPOTIPY_REDIRECT_URI = os.getenv('SPOTIPY_REDIRECT_URI')
+
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -26,18 +27,21 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_spotify_top_tracks():
     tracks = []
     scope = "user-top-read"
-    auth_manager=SpotifyOAuth(
-        scope=scope, 
-        username="thebriansayre", 
-        client_id=SPOTIPY_CLIENT_ID, 
-        client_secret=SPOTIPY_CLIENT_SECRET, 
+    username="thebriansayre"
+    auth_manager = SpotifyOAuth(
+        scope=scope,
+        username=username,
+        client_id=SPOTIPY_CLIENT_ID,
+        client_secret=SPOTIPY_CLIENT_SECRET,
         redirect_uri=SPOTIPY_REDIRECT_URI
     )
     sp = spotipy.Spotify(auth_manager=auth_manager)
-    results = sp.current_user_top_tracks(limit=5, offset=0, time_range='short_term')
+    results = sp.current_user_top_tracks(
+        limit=5, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
-        img_url = item['album']['images'][len(item['album']['images'])-1]['url']
+        img_url = item['album']['images'][len(
+            item['album']['images'])-1]['url']
         artist = item['artists'][0]['name']
         preview_url = item['preview_url']
         tracks.append("    <tr>")
@@ -57,7 +61,6 @@ if __name__ == "__main__":
             for track in tracks
         ]
     )
-    print(md)
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "top_tracks", md)
 
@@ -65,9 +68,8 @@ if __name__ == "__main__":
     now = datetime.now()
     nowCST = now - timedelta(hours=5)
     dt_string = nowCST.strftime("%m/%d/%Y %H:%M:%S")
-    last_updated = ("Tracks last updated: " + dt_string + " CST")
+    last_updated = ("> Tracks last updated: " + dt_string + " CST")
     print(last_updated)
     rewritten = replace_chunk(readme_contents, "last_updated", last_updated)
 
     readme.open("w").write(rewritten)
-    
