@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 ```javascript
 const brian = {
     pronouns: "he" | "him" | "his",
@@ -20,7 +18,7 @@ const brian = {
 ```
 
 ### Brian's recent top Spotify tracks 🎧
-<table style="color: blue;">
+<table>
 <!-- top_tracks starts -->
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048516bbd6589349e2bab2ce3f38b"> </td>
@@ -54,6 +52,6 @@ const brian = {
 > Tracks last updated: 07/15/2020 23:28:15 CST
 <!-- last_updated ends -->
 
-<a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Build+README%22"><img src="https://github.com/briansayre/briansayre/workflows/Build%20README/badge.svg" align="left" alt="Build README"></a>
+<a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Build+README%22"><img src="https://github.com/briansayre/briansayre/workflows/Build%20README/badge.svg" align="left" alt="Update tracks"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
