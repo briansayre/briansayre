@@ -39,5 +39,6 @@ const brian = {
 <!-- top_tracks ends -->
 </table>
 
+<a href="https://github.com/briansayre/briansayre/actions"><img src="https://github.com/briansayre/briansayre/workflows/Build%20README/badge.svg" align="left" alt="Build README"></a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
