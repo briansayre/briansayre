@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
     readme_contents = readme.open().read()
     now = datetime.now()
-    nowCST = now - timedelta(hours=4)
+    nowCST = now - timedelta(hours=5)
     dt_string = nowCST.strftime("%m/%d/%Y %H:%M:%S")
     last_updated = ("Tracks last updated: " + dt_string + " CST")
     print(last_updated)
