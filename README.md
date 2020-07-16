@@ -14,7 +14,7 @@ const brian = {
         major: "Software Engineering",
         minor: "Data Science",
         inProgress: true
-    },
+    }
 }
 ```
 
