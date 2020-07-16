@@ -27,8 +27,15 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_spotify_top_tracks():
     tracks = []
     scope = "user-top-read"
-    sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope, username="thebriansayre", client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET, redirect_uri=SPOTIPY_REDIRECT_URI))
-    results = sp.current_user_top_tracks(limit=3, offset=0, time_range='short_term')
+    auth_manager=SpotifyOAuth(
+        scope=scope, 
+        username="thebriansayre", 
+        client_id=SPOTIPY_CLIENT_ID, 
+        client_secret=SPOTIPY_CLIENT_SECRET, 
+        redirect_uri=SPOTIPY_REDIRECT_URI
+    )
+    sp = spotipy.Spotify(auth_manager=auth_manager)
+    results = sp.current_user_top_tracks(limit=5, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
         img_url = item['album']['images'][len(item['album']['images'])-1]['url']
