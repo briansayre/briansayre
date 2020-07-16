@@ -1,10 +1,9 @@
-import requests
-import json
 import pathlib
 import re
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+from datetime import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -37,8 +36,6 @@ def fetch_spotify_top_tracks():
     sp = spotipy.Spotify(auth_manager=auth_manager)
     results = sp.current_user_top_tracks(limit=5, offset=0, time_range='short_term')
     for item in results['items']:
-        print(item)
-        print("------------------------------------------")
         song_title = item['name']
         img_url = item['album']['images'][len(item['album']['images'])-1]['url']
         artist = item['artists'][0]['name']
@@ -63,5 +60,12 @@ if __name__ == "__main__":
     print(md)
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "top_tracks", md)
+
+    readme_contents = readme.open().read()
+    now = datetime.now()
+    dt_string = now.strftime("%m/%d/%Y %H:%M:%S")
+    last_updated = ("Last updated: " + dt_string)
+    rewritten = replace_chunk(readme_contents, "last_updated", last_updated)
+
     readme.open("w").write(rewritten)
     
