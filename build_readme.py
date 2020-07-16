@@ -27,11 +27,6 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_spotify_top_tracks():
     tracks = []
     scope = "user-top-read"
-    print("=======================")
-    print(SPOTIPY_CLIENT_ID)
-    print(SPOTIPY_CLIENT_SECRET)
-    print(SPOTIPY_REDIRECT_URI)
-    print("=======================")
     auth_manager=SpotifyOAuth(
         scope=scope, 
         username="thebriansayre", 
@@ -45,7 +40,10 @@ def fetch_spotify_top_tracks():
         song_title = item['name']
         img_url = item['album']['images'][len(item['album']['images'])-1]['url']
         artist = item['artists'][0]['name']
-        tracks.append("<tr> <td> <img src=\""+ img_url + "\"> </td> <td> <b>\"" + song_title + "\"</b> by " + artist + "</td> </tr>")
+        tracks.append("    <tr>")
+        tracks.append("        <td> <img src=\""+ img_url + "\"> </td>")
+        tracks.append("        <td> <b>\"" + song_title + "\"</b> by " + artist + "</td>")
+        tracks.append("    </tr>")
     return tracks
 
 
