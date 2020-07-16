@@ -3,7 +3,7 @@ import re
 import os
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-from datetime import datetime
+from datetime import (datetime, timedelta)
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -63,8 +63,10 @@ if __name__ == "__main__":
 
     readme_contents = readme.open().read()
     now = datetime.now()
-    dt_string = now.strftime("%m/%d/%Y %H:%M:%S")
-    last_updated = ("Tracks last updated: " + dt_string)
+    nowCST = now - timedelta(hours=4)
+    dt_string = nowCST.strftime("%m/%d/%Y %H:%M:%S")
+    last_updated = ("Tracks last updated: " + dt_string + " CST")
+    print(last_updated)
     rewritten = replace_chunk(readme_contents, "last_updated", last_updated)
 
     readme.open("w").write(rewritten)
