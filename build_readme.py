@@ -46,7 +46,7 @@ def fetch_spotify_top_tracks():
         tracks.append("    <tr>")
         tracks.append("        <td> <img height=\"32px\" src=\""+ img_url + "\"> </td>")
         tracks.append("        <td> <b>\"" + song_title + "\"</b> by " + artist + "</td>")
-        tracks.append("        <td> <a href=\"" + preview_url + "\" target=\"_blank\" > </a> Preview </td>")
+        tracks.append("        <td> <a href=\"" + preview_url + "\" target=\"_blank\" > Preview </a> </td>")
         tracks.append("    </tr>")
     return tracks
 
