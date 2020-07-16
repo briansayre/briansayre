@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
 
 ```javascript
 const brian = {
@@ -40,5 +40,3 @@ const brian = {
 </table>
 
 <a href="https://github.com/briansayre/briansayre/actions"><img src="https://github.com/briansayre/briansayre/workflows/Build%20README/badge.svg" align="left" alt="Build README"></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
