@@ -27,6 +27,11 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_spotify_top_tracks():
     tracks = []
     scope = "user-top-read"
+    print("=======================")
+    print(SPOTIPY_CLIENT_ID)
+    print(SPOTIPY_CLIENT_SECRET)
+    print(SPOTIPY_REDIRECT_URI)
+    print("=======================")
     auth_manager=SpotifyOAuth(
         scope=scope, 
         username="thebriansayre", 
