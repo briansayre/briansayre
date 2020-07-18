@@ -53,6 +53,6 @@ const brian = {
 > Tracks last updated: 07/18/2020 11:44:17 CST
 <!-- last_updated ends -->
 
-<a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Build+README%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
+<a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=briansayre.briansayre)
