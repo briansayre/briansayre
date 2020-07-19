@@ -37,7 +37,7 @@ def fetch_spotify_top_tracks():
     )
     sp = spotipy.Spotify(auth_manager=auth_manager)
     results = sp.current_user_top_tracks(
-        limit=5, offset=0, time_range='short_term')
+        limit=5, offset=0, time_range='medium_term')
     for item in results['items']:
         song_title = item['name']
         img_url = item['album']['images'][len(
