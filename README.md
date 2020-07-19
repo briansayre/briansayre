@@ -37,7 +37,6 @@ const brian = {
 
 <!-- last_updated starts -->
 > Tracks last updated: 07/19/2020 07:14:46 CST
-<!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
 
