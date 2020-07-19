@@ -62,7 +62,8 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "top_tracks", md)
-
+    readme.open("w").write(rewritten)
+    
     readme_contents = readme.open().read()
     now = datetime.now()
     nowCST = now - timedelta(hours=5)
