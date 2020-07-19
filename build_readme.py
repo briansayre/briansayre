@@ -39,6 +39,7 @@ def fetch_spotify_top_tracks():
     results = sp.current_user_top_tracks(limit=3, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
+        print(song_title)
         img_url = item['album']['images'][len(item['album']['images'])-1]['url']
         artist = item['artists'][0]['name']
         preview_url = item['preview_url']
@@ -67,7 +68,6 @@ if __name__ == "__main__":
     nowCST = now - timedelta(hours=5)
     dt_string = nowCST.strftime("%m/%d/%Y %H:%M:%S")
     last_updated = ("> Tracks last updated: " + dt_string + " CST")
-    print(last_updated)
     rewritten = replace_chunk(readme_contents, "last_updated", last_updated)
 
     readme.open("w").write(rewritten)
