@@ -65,8 +65,9 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "top_tracks", md)
     # Update the last updated time
     now = datetime.now()
-    dt_string = now.strftime("%m/%d/%Y %H:%M:%S")
-    last_updated = ("> Tracks last updated: " + dt_string + " UTC")
+    nowCST = now - timedelta(hours=5)
+    dt_string = nowCST.strftime("%m/%d/%Y at %H:%M:%S")
+    last_updated = ("> Tracks last updated on " + dt_string + " CST")
     rewritten = replace_chunk(rewritten, "last_updated", last_updated)
     # Write to README
     readme.open("w").write(rewritten)
