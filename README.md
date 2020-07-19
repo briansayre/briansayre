@@ -5,10 +5,6 @@ const brian = {
     tools: ["AWS", "React"],
     sites: ["briansayre.com", "bit.ly/simplmeals"],
     hobbies: ["👨‍💻", "⛹️‍♂️", "🍳"],
-    contacts: {
-        email: "bsayre@iastate.edu",
-        phone: 3198045234
-    },
     education: {
         school: "Iowa State University",
         major: "Software Engineering",
