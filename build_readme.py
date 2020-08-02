@@ -36,7 +36,7 @@ def fetch_spotify_top_tracks():
         redirect_uri=SPOTIPY_REDIRECT_URI
     )
     sp = spotipy.Spotify(auth_manager=auth_manager)
-    results = sp.current_user_top_tracks(limit=3, offset=0, time_range='short_term')
+    results = sp.current_user_top_tracks(limit=5, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
         print(song_title)
