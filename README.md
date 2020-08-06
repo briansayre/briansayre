@@ -28,14 +28,14 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/146f066458c46265afc003dc22cf8c1f727d37ed?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048516bbd6589349e2bab2ce3f38b"> </td>
-        <td> <b>"I Don't Think I'm Okay"</b> by Bazzi</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/a1cef8de9c2cfb52ca9ecde857b8e7b3581b701e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851540ff8cddd45a6ce2077f99c"> </td>
         <td> <b>"What It Is"</b> by KYLE</td>
         <td> <a href="https://p.scdn.co/mp3-preview/36e8bdd730b351ab509015ae2b782b14353df3df?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048516bbd6589349e2bab2ce3f38b"> </td>
+        <td> <b>"I Don't Think I'm Okay"</b> by Bazzi</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/a1cef8de9c2cfb52ca9ecde857b8e7b3581b701e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517a6aa18b884bea97981b7542"> </td>
@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 08/05/2020 at 00:05:15 CST
+> Tracks last updated on 08/06/2020 at 00:05:37 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
