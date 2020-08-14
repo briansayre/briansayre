@@ -24,13 +24,13 @@ const brian = {
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851540ff8cddd45a6ce2077f99c"> </td>
-        <td> <b>"Forget (feat. Trippie Redd, iann dior & The Drums)"</b> by KYLE</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/146f066458c46265afc003dc22cf8c1f727d37ed?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <b>"What It Is"</b> by KYLE</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/36e8bdd730b351ab509015ae2b782b14353df3df?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851540ff8cddd45a6ce2077f99c"> </td>
-        <td> <b>"What It Is"</b> by KYLE</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/36e8bdd730b351ab509015ae2b782b14353df3df?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <b>"Forget (feat. Trippie Redd, iann dior & The Drums)"</b> by KYLE</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/146f066458c46265afc003dc22cf8c1f727d37ed?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517a6aa18b884bea97981b7542"> </td>
@@ -38,15 +38,15 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/6fb94854599d300a86202cd1ed48c79aca5dad12?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851540ff8cddd45a6ce2077f99c"> </td>
-        <td> <b>"The Sun (feat. Bryson Tiller & Raphael Saadiq)"</b> by KYLE</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/4cd077a855b5a0eac07da83e7d8a8b74b6b520eb?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048518e59b60132f8d99895ab4803"> </td>
+        <td> <b>"IMPORTED (with 6LACK)"</b> by Jessie Reyez</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/8b481ccf456d7c8781e0a54d6467fc8529653b04?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 08/13/2020 at 00:07:02 CST
+> Tracks last updated on 08/14/2020 at 00:09:29 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
