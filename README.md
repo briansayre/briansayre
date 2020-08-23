@@ -38,15 +38,15 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/e4492a8e947867f465309e9ae70565513f50eb82?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517c25d45fb7f6e8b239f47ab1"> </td>
-        <td> <b>"Loyalty"</b> by Clever</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/db39a27ef24d92f9645f977700fdc6267d28977e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048516aca031ccc27d2e4dd829d14"> </td>
+        <td> <b>"A Tale of 2 Citiez"</b> by J. Cole</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/a65e25b8692d618ae4ac818b2a6231651bcc1b90?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 08/22/2020 at 00:05:41 CST
+> Tracks last updated on 08/23/2020 at 00:06:17 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
