@@ -18,6 +18,11 @@ const brian = {
 <table>
 <!-- top_tracks starts -->
     <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485177ada0863603903f57b34369"> </td>
+        <td> <b>"For The Night (feat. Lil Baby & DaBaby)"</b> by Pop Smoke</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/e8fac9f119882713d6ffb6418be7c97e12b05197?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851ff8c985ecb3b7c5f847be357"> </td>
         <td> <b>"Mood (feat. Iann Dior)"</b> by 24kGoldn</td>
         <td> <a href="https://p.scdn.co/mp3-preview/45cb08fdb67744ab7f1f172bb750e9c10415c37a?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -33,20 +38,15 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/db39a27ef24d92f9645f977700fdc6267d28977e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048513ad321d9c2b312c8fda5207c"> </td>
-        <td> <b>"Coochie Man"</b> by YN Jay</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/a17a43bf25927a1279f6b06f74a9e36e7745ff36?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485177ada0863603903f57b34369"> </td>
-        <td> <b>"For The Night (feat. Lil Baby & DaBaby)"</b> by Pop Smoke</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/e8fac9f119882713d6ffb6418be7c97e12b05197?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048510a60956dc4714b3ea6a2e4fc"> </td>
+        <td> <b>"Sober"</b> by Bazzi</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/2dee285baf0c181c24ed005185e0831f79a0bc1c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 09/07/2020 at 00:06:54 CST
+> Tracks last updated on 09/08/2020 at 00:07:01 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
