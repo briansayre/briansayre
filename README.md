@@ -28,25 +28,25 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/45cb08fdb67744ab7f1f172bb750e9c10415c37a?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851cb045e684adce8d49ada4045"> </td>
+        <td> <b>"Losin Control"</b> by Russ</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/b6912a2077507660710d39ae6ba5c085891dc226?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048513a376bd9b9b1f4b2686807db"> </td>
         <td> <b>"No Way!"</b> by Bazzi</td>
         <td> <a href="https://p.scdn.co/mp3-preview/c90e7fbd5867542de087dd5965090cdbc74c63cf?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517c25d45fb7f6e8b239f47ab1"> </td>
-        <td> <b>"Loyalty"</b> by Clever</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/db39a27ef24d92f9645f977700fdc6267d28977e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851cb045e684adce8d49ada4045"> </td>
-        <td> <b>"Losin Control"</b> by Russ</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/b6912a2077507660710d39ae6ba5c085891dc226?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851f79ce85d7072f57f9cbb6013"> </td>
+        <td> <b>"do u even miss me at all?"</b> by gianni & kyle</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/f63b64c93d1b77e689545b7534ffe8249124c519?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 09/16/2020 at 00:07:09 CST
+> Tracks last updated on 09/17/2020 at 00:07:15 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
