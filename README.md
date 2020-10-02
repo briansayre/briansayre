@@ -23,11 +23,6 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/781ee44899f1f2cb5bbd922a877b50c14abd1fe2?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485146f07fa4f28bf824840ddacb"> </td>
-        <td> <b>"SUGAR"</b> by BROCKHAMPTON</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/5ede99e4306c75ac7b99f277807fb91c2ce5c785?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517a6aa18b884bea97981b7542"> </td>
         <td> <b>"Lion King On Ice"</b> by J. Cole</td>
         <td> <a href="https://p.scdn.co/mp3-preview/6fb94854599d300a86202cd1ed48c79aca5dad12?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -42,11 +37,16 @@ const brian = {
         <td> <b>"The Climb Back"</b> by J. Cole</td>
         <td> <a href="https://p.scdn.co/mp3-preview/78dd66d030c2e323f2ada6f638bb5a5e2ceeb4f4?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851039f0bcf97bf66ca8e1f736d"> </td>
+        <td> <b>"SUMMER AT 7"</b> by Russ</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/aabab5d41fb4764ed6848bef97012ec848581e44?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 10/01/2020 at 00:07:41 CST
+> Tracks last updated on 10/02/2020 at 00:07:25 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
