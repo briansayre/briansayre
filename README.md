@@ -23,11 +23,6 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/781ee44899f1f2cb5bbd922a877b50c14abd1fe2?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851988ede5e1276e758b5f9e577"> </td>
-        <td> <b>"American Teen"</b> by Khalid</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/3b4aa1b644a30474a3383594acf8b6ba6eba7fda?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851459d675aa0b6f3b211357370"> </td>
         <td> <b>"Water Fountain"</b> by Alec Benjamin</td>
         <td> <a href="https://p.scdn.co/mp3-preview/49273aa77460db7c131514d1f1c8486a7cacfe70?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -38,6 +33,11 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/cda6f1c02a44e21ebac3da20dfb5a125dea4371c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851988ede5e1276e758b5f9e577"> </td>
+        <td> <b>"American Teen"</b> by Khalid</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/3b4aa1b644a30474a3383594acf8b6ba6eba7fda?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485171240fd7447ba7f20c5600ec"> </td>
         <td> <b>"Life Must Go On"</b> by Quinn XCII</td>
         <td> <a href="https://p.scdn.co/mp3-preview/7306ad7fa88544d04d8b7033eff281b87fa7ebc4?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 10/10/2020 at 00:08:10 CST
+> Tracks last updated on 10/11/2020 at 00:08:02 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
