@@ -20,7 +20,7 @@ const brian = {
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851be61e0dc6cdf58dbb5e3278c"> </td>
         <td> <b>"Stuck in the Middle"</b> by Tai Verdes</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/781ee44899f1f2cb5bbd922a877b50c14abd1fe2?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <a href="https://github.com/briansayre" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851459d675aa0b6f3b211357370"> </td>
@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 10/13/2020 at 00:08:02 CST
+> Tracks last updated on 10/15/2020 at 11:14:56 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
