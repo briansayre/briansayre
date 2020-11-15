@@ -23,11 +23,6 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/0a2715b393adc82ca24f967c0c13f1e4a72be50c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517a6aa18b884bea97981b7542"> </td>
-        <td> <b>"Lion King On Ice"</b> by J. Cole</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/6fb94854599d300a86202cd1ed48c79aca5dad12?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851048648403c175f5fc6d5dda9"> </td>
         <td> <b>"Stuck In The Middle"</b> by Tai Verdes</td>
         <td> <a href="https://p.scdn.co/mp3-preview/8a7dad305863564c664828b68b70af8249a9e460?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -42,11 +37,16 @@ const brian = {
         <td> <b>"Who Am I?"</b> by Bazzi</td>
         <td> <a href="https://p.scdn.co/mp3-preview/70089ae42f2bbfa0254a7aceafe77e8162f092cf?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517aede4855f6d0d738012e2e5"> </td>
+        <td> <b>"Thinkin Bout You"</b> by Frank Ocean</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/5159147a243314b15bceb1763cea3df57481e32b?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 11/14/2020 at 00:06:09 CST
+> Tracks last updated on 11/15/2020 at 00:06:34 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
