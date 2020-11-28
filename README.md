@@ -38,15 +38,15 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/23c55e5abb8337bd1fd5f1ca8625a1239b41a887?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851e1530b42603367fdb2208d88"> </td>
-        <td> <b>"Unfair"</b> by 6LACK</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/a773793c04dee8638bbaa24e98ad59c54f80d2e0?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851529c6fa82d23f65076c1579b"> </td>
+        <td> <b>"Good Things Fall Apart (with Jon Bellion)"</b> by ILLENIUM</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/13d9623910562e91bb61b1191962432572b63a15?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 11/27/2020 at 00:06:55 CST
+> Tracks last updated on 11/28/2020 at 00:07:32 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
