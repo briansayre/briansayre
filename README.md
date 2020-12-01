@@ -3,7 +3,7 @@ const brian = {
     pronouns: "he" | "him" | "his",
     code: ["Java", "Python", "C", "JavaScipt", "HTML", "CSS"],
     tools: ["AWS", "React"],
-    sites: ["briansayre.com", "bit.ly/simplmeals"],
+    sites: ["briansayre.com"],
     hobbies: ["👨‍💻", "⛹️‍♂️", "🍳"],
     education: {
         school: "Iowa State University",
