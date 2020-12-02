@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 12/01/2020 at 01:10:48 CST
+> Tracks last updated on 12/02/2020 at 00:07:21 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
