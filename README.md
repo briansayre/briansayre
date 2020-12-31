@@ -33,20 +33,20 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/a1cef8de9c2cfb52ca9ecde857b8e7b3581b701e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485114bdd6eb2d059232add0a0a8"> </td>
-        <td> <b>"You & Me"</b> by Marc E. Bassy</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/9cf59345991d08585d706a6730d673f6dfa6b392?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851529c6fa82d23f65076c1579b"> </td>
         <td> <b>"Good Things Fall Apart (with Jon Bellion)"</b> by ILLENIUM</td>
         <td> <a href="https://p.scdn.co/mp3-preview/13d9623910562e91bb61b1191962432572b63a15?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485114bdd6eb2d059232add0a0a8"> </td>
+        <td> <b>"You & Me"</b> by Marc E. Bassy</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/9cf59345991d08585d706a6730d673f6dfa6b392?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 12/30/2020 at 00:21:02 CST
+> Tracks last updated on 12/31/2020 at 00:23:39 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
