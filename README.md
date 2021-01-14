@@ -23,11 +23,6 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/a1cef8de9c2cfb52ca9ecde857b8e7b3581b701e?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048516aca031ccc27d2e4dd829d14"> </td>
-        <td> <b>"Apparently"</b> by J. Cole</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/f11542c6d2600f56905a931577216d8371c6c835?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048511f67c8331e6503e9233099de"> </td>
         <td> <b>"Next Up Forever"</b> by AJR</td>
         <td> <a href="https://p.scdn.co/mp3-preview/049d546a844ad58b3969ceb689f3b7ee47728160?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
@@ -42,11 +37,16 @@ const brian = {
         <td> <b>"Pretty Little Fears (feat. J. Cole)"</b> by 6LACK</td>
         <td> <a href="https://p.scdn.co/mp3-preview/3fcc707c7ffff55bcd3d04cb379261519a50423b?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851804533fa6608d1c8d420dbeb"> </td>
+        <td> <b>"Guillotine"</b> by Jon Bellion</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/49eeb7fd69d9251b59ac7429b171c58c98db0cd9?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 01/13/2021 at 00:39:45 CST
+> Tracks last updated on 01/14/2021 at 00:41:30 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
