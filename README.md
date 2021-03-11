@@ -30,7 +30,7 @@ const brian = {
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048517ddc373ddb8fa21c90f3952f"> </td>
         <td> <b>"You"</b> by DWLLRS</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/607ef41db1ace9b8ab0d0ad95d99aaba4599c462?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <a href="https://github.com/briansayre" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048515677cdba1574240eb942fb19"> </td>
@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 03/10/2021 at 00:08:40 CST
+> Tracks last updated on 03/11/2021 at 00:08:50 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
