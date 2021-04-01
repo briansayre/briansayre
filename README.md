@@ -33,20 +33,20 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/c9e623afef05c1a9cd68e41821050849d9902de0?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048515677cdba1574240eb942fb19"> </td>
-        <td> <b>"Iced Coffee"</b> by DWLLRS</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/39d018e5d4ef3a4ec8d5af6f038d43da78da93db?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851459ed560aaa7877ae0152b0d"> </td>
         <td> <b>"You"</b> by DWLLRS</td>
         <td> <a href="https://p.scdn.co/mp3-preview/5488c368c40b4b62f1e9612f4363f8a7c1fba4b8?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d000048515677cdba1574240eb942fb19"> </td>
+        <td> <b>"Iced Coffee"</b> by DWLLRS</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/39d018e5d4ef3a4ec8d5af6f038d43da78da93db?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 03/31/2021 at 00:04:59 CST
+> Tracks last updated on 04/01/2021 at 00:07:18 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
