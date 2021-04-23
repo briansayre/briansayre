@@ -28,14 +28,14 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/7d6b5d256531006ce94825d977ad3ac20d1482b6?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485193e615c188fccd958e915852"> </td>
-        <td> <b>"We're All Just Falling And Flying"</b> by DWLLRS</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/25801ab65d788626dd2a21a062b1f23d088d2d0c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851dbf3c10406ac999c39bf4a97"> </td>
         <td> <b>"Corduroy Dreams"</b> by Rex Orange County</td>
         <td> <a href="https://p.scdn.co/mp3-preview/f2d1f2500bdff083647307b5f976dbe7e0d36403?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485193e615c188fccd958e915852"> </td>
+        <td> <b>"We're All Just Falling And Flying"</b> by DWLLRS</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/25801ab65d788626dd2a21a062b1f23d088d2d0c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485115f4cfd072793fa7532e674a"> </td>
@@ -46,7 +46,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 04/22/2021 at 00:06:47 CST
+> Tracks last updated on 04/23/2021 at 00:07:05 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
