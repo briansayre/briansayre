@@ -38,15 +38,15 @@ const brian = {
         <td> <a href="https://p.scdn.co/mp3-preview/25801ab65d788626dd2a21a062b1f23d088d2d0c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485115f4cfd072793fa7532e674a"> </td>
-        <td> <b>"Sunflower"</b> by Rex Orange County</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/561e89f54d6e333789baae4fb220713221e18f6c?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851280a72fdd9bd502bcba6ada8"> </td>
+        <td> <b>"Loving Is Easy"</b> by Rex Orange County</td>
+        <td> <a href="https://p.scdn.co/mp3-preview/bce0365b96538116e07cb65fe3b3dbec560faae6?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_tracks ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 04/23/2021 at 00:07:05 CST
+> Tracks last updated on 04/24/2021 at 00:06:55 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
