@@ -36,18 +36,20 @@ def fetch_spotify_top_tracks():
         redirect_uri=SPOTIPY_REDIRECT_URI
     )
     sp = spotipy.Spotify(auth_manager=auth_manager)
-    results = sp.current_user_top_tracks(limit=3, offset=0, time_range='short_term')
+    results = sp.current_user_top_tracks(limit=5, offset=0, time_range='short_term')
     for item in results['items']:
         song_title = item['name']
-        print(song_title)
         img_url = item['album']['images'][len(item['album']['images'])-1]['url']
         artist = item['artists'][0]['name']
         preview_url = item['preview_url']
+        if not preview_url:
+            preview_url = "https://github.com/briansayre" 
         tracks.append("    <tr>")
         tracks.append("        <td> <img height=\"32px\" src=\""+ img_url + "\"> </td>")
         tracks.append("        <td> <b>\"" + song_title + "\"</b> by " + artist + "</td>")
         tracks.append("        <td> <a href=\"" + preview_url + "\" target=\"_blank\" > Preview </a> </td>")
         tracks.append("    </tr>")
+        print(song_title)
     return tracks
 
 
