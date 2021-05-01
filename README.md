@@ -20,19 +20,19 @@ const brian = {
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/321b61bad8f9c7337c59798a8a3c7dcc8b997730"> </td>
         <td> <b>Rex Orange County</b></td>
-        <td> <i>bedroom pop, pop</i></td>
+        <td> <i>pop</i></td>
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
         <td> <b>Drake</b></td>
-        <td> <i>canadian hip hop, canadian pop, hip hop, pop rap, rap, toronto rap</i></td>
+        <td> <i>toronto rap</i></td>
         <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ff24214a2e41e0d0a4621b35c53e0573c2c6a65e"> </td>
         <td> <b>J. Cole</b></td>
-        <td> <i>conscious hip hop, hip hop, north carolina hip hop, rap</i></td>
+        <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
@@ -44,14 +44,14 @@ const brian = {
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/a38a64575d10f0c9f0c174713e23e3f7c5b9cd33"> </td>
         <td> <b>Khalid</b></td>
-        <td> <i>alternative r&b, pop</i></td>
+        <td> <i>pop</i></td>
         <td> <a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 05/01/2021 at 10:27:28 CST
+> Tracks last updated on 05/01/2021 at 10:29:26 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
