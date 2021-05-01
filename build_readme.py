@@ -52,19 +52,51 @@ def fetch_spotify_top_tracks():
         print(song_title)
     return tracks
 
+    
+def fetch_spotify_top_artists():
+    artists = []
+    scope = "user-top-read"
+    username="thebriansayre"
+    auth_manager = SpotifyOAuth(
+        scope=scope,
+        username=username,
+        client_id=SPOTIPY_CLIENT_ID,
+        client_secret=SPOTIPY_CLIENT_SECRET,
+        redirect_uri=SPOTIPY_REDIRECT_URI
+    )
+    sp = spotipy.Spotify(auth_manager=auth_manager)
+    results = sp.current_user_top_artists(limit=5, offset=0, time_range='short_term')
+    print(results)
+    for item in results['items']:
+        artist_name = item['name']
+        img_url = item['images'][len(item['images'])-1]['url']
+        preview_url = item['external_urls']["spotify"]
+        if not preview_url:
+            preview_url = "https://github.com/briansayre" 
+        artists.append("    <tr>")
+        artists.append("        <td> <img height=\"32px\" src=\""+ img_url + "\"> </td>")
+        artists.append("        <td> <b>" + artist_name + "</b></td>")
+        artists.append("        <td> <i>" + ", ".join(item["genres"]) + "</i></td>")
+        artists.append("        <td> <a href=\"" + preview_url + "\" target=\"_blank\" > Preview </a> </td>")
+        artists.append("    </tr>")
+        print(artist_name)
+    return artists
+
 
 if __name__ == "__main__":
-    # Update Spotify tracks
+    # Update Spotify artists
     readme = root / "README.md"
-    tracks = fetch_spotify_top_tracks()
+    artists = fetch_spotify_top_artists()
+    
     md = "\n".join(
         [
-            track
-            for track in tracks
+            artist
+            for artist in artists
         ]
     )
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "top_tracks", md)
+    rewritten = replace_chunk(readme_contents, "top_artists", md)
+
     # Update the last updated time
     now = datetime.now()
     nowCST = now - timedelta(hours=5)

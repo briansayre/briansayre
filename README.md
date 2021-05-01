@@ -14,39 +14,44 @@ const brian = {
 }
 ```
 
-### Brian's recent top Spotify tracks 🎧
+### Brian's recent top Spotify artists 🎧
 <table>
-<!-- top_tracks starts -->
+<!-- top_artists starts -->
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485139fd7125bb2e9886fb85c26f"> </td>
-        <td> <b>"Fiction"</b> by DWLLRS</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/72055e387bad182867185c233575fc4fc776a954?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/321b61bad8f9c7337c59798a8a3c7dcc8b997730"> </td>
+        <td> <b>Rex Orange County</b></td>
+        <td> <i>bedroom pop, pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851733e6d7818eef87d20df86b5"> </td>
-        <td> <b>"Pluto Projector"</b> by Rex Orange County</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/7d6b5d256531006ce94825d977ad3ac20d1482b6?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
+        <td> <b>Drake</b></td>
+        <td> <i>canadian hip hop, canadian pop, hip hop, pop rap, rap, toronto rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d0000485133a6b45fa8354efe37633964"> </td>
-        <td> <b>"Best Friend"</b> by Rex Orange County</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/c3d4d60709c7441f949a1ff538d1cbbca90934ae?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ff24214a2e41e0d0a4621b35c53e0573c2c6a65e"> </td>
+        <td> <b>J. Cole</b></td>
+        <td> <i>conscious hip hop, hip hop, north carolina hip hop, rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851dbf3c10406ac999c39bf4a97"> </td>
-        <td> <b>"Corduroy Dreams"</b> by Rex Orange County</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/f2d1f2500bdff083647307b5f976dbe7e0d36403?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1783b835edcfa8fc91ff7da16fb"> </td>
+        <td> <b>DWLLRS</b></td>
+        <td> <i>chill pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab67616d00004851280a72fdd9bd502bcba6ada8"> </td>
-        <td> <b>"Loving Is Easy"</b> by Rex Orange County</td>
-        <td> <a href="https://p.scdn.co/mp3-preview/bce0365b96538116e07cb65fe3b3dbec560faae6?cid=856b16ed1b17433b9b4ee14b5a0c5a87" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/a38a64575d10f0c9f0c174713e23e3f7c5b9cd33"> </td>
+        <td> <b>Khalid</b></td>
+        <td> <i>alternative r&b, pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny" target="_blank" > Preview </a> </td>
     </tr>
-<!-- top_tracks ends -->
+<!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Tracks last updated on 05/01/2021 at 00:15:08 CST
+> Tracks last updated on 05/01/2021 at 10:27:28 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+tracks%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20tracks/badge.svg" align="left" alt="Update tracks"></a>
