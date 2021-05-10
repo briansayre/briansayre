@@ -24,16 +24,16 @@ const brian = {
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
-        <td> <b>Drake</b></td>
-        <td> <i>toronto rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ff24214a2e41e0d0a4621b35c53e0573c2c6a65e"> </td>
         <td> <b>J. Cole</b></td>
         <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
+        <td> <b>Drake</b></td>
+        <td> <i>toronto rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1783b835edcfa8fc91ff7da16fb"> </td>
@@ -51,7 +51,7 @@ const brian = {
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 05/09/2021 at 00:12:41 CST
+> Artists last updated on 05/10/2021 at 00:14:14 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
