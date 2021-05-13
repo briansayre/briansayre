@@ -42,16 +42,16 @@ const brian = {
         <td> <a href="https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
-        <td> <b>Drake</b></td>
-        <td> <i>toronto rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/635982ac04cd2fa7e88e44f5c7ceca183ec86e5b"> </td>
+        <td> <b>Ruel</b></td>
+        <td> <i>social media pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 05/12/2021 at 00:18:26 CST
+> Artists last updated on 05/13/2021 at 00:19:38 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
