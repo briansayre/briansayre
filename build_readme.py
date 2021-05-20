@@ -76,7 +76,8 @@ def fetch_spotify_top_artists():
         artists.append("    <tr>")
         artists.append("        <td> <img height=\"32px\" src=\""+ img_url + "\"> </td>")
         artists.append("        <td> <b>" + artist_name + "</b></td>")
-        artists.append("        <td> <i>" + item["genres"][len(item["genres"])-1] + "</i></td>")
+        if len(item["genres"]) != 0: 
+            artists.append("        <td> <i>" + item["genres"][len(item["genres"])-1] + "</i></td>")
         artists.append("        <td> <a href=\"" + preview_url + "\" target=\"_blank\" > Preview </a> </td>")
         artists.append("    </tr>")
         print(artist_name)
