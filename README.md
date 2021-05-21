@@ -1,19 +1,3 @@
-```javascript
-const brian = {
-    pronouns: "he" | "him" | "his",
-    code: ["Java", "Python", "C", "JavaScipt", "HTML", "CSS"],
-    tools: ["AWS", "React"],
-    sites: ["briansayre.com"],
-    hobbies: ["👨‍💻", "⛹️‍♂️", "🍳"],
-    education: {
-        school: "Iowa State University",
-        major: "Software Engineering",
-        minor: "Data Science",
-        inProgress: true
-    }
-}
-```
-
 ### Brian's recent top Spotify artists 🎧
 <table>
 <!-- top_artists starts -->
