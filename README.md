@@ -8,12 +8,6 @@
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1784c02fa4c81c2088c5954451e"> </td>
-        <td> <b>Morray</b></td>
-        <td> <i>no genre</i></td>
-        <td> <a href="https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1783b835edcfa8fc91ff7da16fb"> </td>
         <td> <b>DWLLRS</b></td>
         <td> <i>chill pop</i></td>
@@ -26,6 +20,12 @@
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1784c02fa4c81c2088c5954451e"> </td>
+        <td> <b>Morray</b></td>
+        <td> <i>no genre</i></td>
+        <td> <a href="https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/02e96fdf26f6a3b1d435f163831ea50f7d2abb55"> </td>
         <td> <b>Taylor Swift</b></td>
         <td> <i>post-teen pop</i></td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 06/10/2021 at 00:28:45 CST
+> Artists last updated on 06/11/2021 at 00:15:38 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
