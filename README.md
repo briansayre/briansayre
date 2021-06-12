@@ -20,22 +20,22 @@
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1784c02fa4c81c2088c5954451e"> </td>
-        <td> <b>Morray</b></td>
-        <td> <i>no genre</i></td>
-        <td> <a href="https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/8eaace74aaca82eaccde400bbcab2653b9cf86e1"> </td>
+        <td> <b>Drake</b></td>
+        <td> <i>toronto rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/02e96fdf26f6a3b1d435f163831ea50f7d2abb55"> </td>
-        <td> <b>Taylor Swift</b></td>
-        <td> <i>post-teen pop</i></td>
-        <td> <a href="https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/67a39ada83e4dc3e4690e361e9dc91dd702ea2ee"> </td>
+        <td> <b>Mac Miller</b></td>
+        <td> <i>rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 06/11/2021 at 00:15:38 CST
+> Artists last updated on 06/12/2021 at 00:12:17 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
