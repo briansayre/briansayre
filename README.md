@@ -25,17 +25,11 @@
         <td> <i>toronto rap</i></td>
         <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
-    <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/67a39ada83e4dc3e4690e361e9dc91dd702ea2ee"> </td>
-        <td> <b>Mac Miller</b></td>
-        <td> <i>rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U" target="_blank" > Preview </a> </td>
-    </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 06/13/2021 at 00:12:37 CST
+> Artists last updated on 06/15/2021 at 00:13:24 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
