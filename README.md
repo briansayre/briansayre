@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 06/16/2021 at 00:13:25 CST
+> Artists last updated on 06/17/2021 at 00:13:10 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
