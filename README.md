@@ -14,7 +14,7 @@
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1783b835edcfa8fc91ff7da16fb"> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178a4445a6ccff1b1d64c4fb751"> </td>
         <td> <b>DWLLRS</b></td>
         <td> <i>chill pop</i></td>
         <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 06/30/2021 at 00:07:50 CST
+> Artists last updated on 07/01/2021 at 00:08:01 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
