@@ -26,7 +26,7 @@
         <td> <a href="https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/0fec63fc24f677fa4afb4963f0c68a8bb7c4c6b4"> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1782d1b793dd862c88ae9400025"> </td>
         <td> <b>Shortsy</b></td>
         <td> <i>no genre</i></td>
         <td> <a href="https://open.spotify.com/artist/470fN1AaRkhKzaFXOuPeZn" target="_blank" > Preview </a> </td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 07/03/2021 at 00:07:44 CST
+> Artists last updated on 07/04/2021 at 00:07:39 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
