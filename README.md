@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/470fN1AaRkhKzaFXOuPeZn" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1789d6c72d285ab349ce7a93529"> </td>
-        <td> <b>Drake</b></td>
-        <td> <i>toronto rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178a4445a6ccff1b1d64c4fb751"> </td>
+        <td> <b>DWLLRS</b></td>
+        <td> <i>chill pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 07/07/2021 at 00:07:57 CST
+> Artists last updated on 07/08/2021 at 00:08:12 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
