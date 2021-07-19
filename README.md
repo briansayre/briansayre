@@ -20,22 +20,22 @@
         <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1785c0295d3d24c4a421a69efeb"> </td>
-        <td> <b>Dominic Fike</b></td>
-        <td> <i>pop rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1787fa908af268a9b954e9587c2"> </td>
         <td> <b>Ruel</b></td>
         <td> <i>social media pop</i></td>
         <td> <a href="https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1785c0295d3d24c4a421a69efeb"> </td>
+        <td> <b>Dominic Fike</b></td>
+        <td> <i>pop rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 07/18/2021 at 00:07:45 CST
+> Artists last updated on 07/19/2021 at 00:08:24 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
