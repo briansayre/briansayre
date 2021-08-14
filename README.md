@@ -20,22 +20,22 @@
         <td> <a href="https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1785a190ba14f71e3be8d7049f3"> </td>
-        <td> <b>Russ</b></td>
-        <td> <i>rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17870783ea42c106f3f325f53af"> </td>
         <td> <b>The Kid LAROI</b></td>
         <td> <i>australian hip hop</i></td>
         <td> <a href="https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1789d6c72d285ab349ce7a93529"> </td>
+        <td> <b>Drake</b></td>
+        <td> <i>toronto rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 08/13/2021 at 00:08:15 CST
+> Artists last updated on 08/14/2021 at 00:07:50 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
