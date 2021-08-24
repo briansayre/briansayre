@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab"> </td>
-        <td> <b>Bo Burnham</b></td>
-        <td> <i>comic</i></td>
-        <td> <a href="https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1781908e1a8b79abf71d5598944"> </td>
+        <td> <b>Juice WRLD</b></td>
+        <td> <i>melodic rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 08/23/2021 at 00:08:20 CST
+> Artists last updated on 08/24/2021 at 00:08:07 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
