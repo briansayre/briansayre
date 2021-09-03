@@ -26,7 +26,7 @@
         <td> <a href="https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1789d6c72d285ab349ce7a93529"> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1789e46a78c5cd2f7a8e7669980"> </td>
         <td> <b>Drake</b></td>
         <td> <i>toronto rap</i></td>
         <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 09/02/2021 at 00:08:41 CST
+> Artists last updated on 09/03/2021 at 00:08:23 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
