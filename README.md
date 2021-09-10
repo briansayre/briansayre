@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1782674744525eede64eb34b81f"> </td>
-        <td> <b>Dustin Lynch</b></td>
-        <td> <i>modern country rock</i></td>
-        <td> <a href="https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178787b04112f1dbd7c8bce18b9"> </td>
+        <td> <b>WILLOW</b></td>
+        <td> <i>post-teen pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 09/09/2021 at 00:08:53 CST
+> Artists last updated on 09/10/2021 at 00:08:28 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
