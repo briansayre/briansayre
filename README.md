@@ -20,22 +20,22 @@
         <td> <a href="https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178179f481acb9c0fcaa522b80e"> </td>
-        <td> <b>Russ</b></td>
-        <td> <i>rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178e07d6b0f2fcc2f2ba6bdc3ce"> </td>
         <td> <b>Post Malone</b></td>
         <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60" target="_blank" > Preview </a> </td>
     </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178179f481acb9c0fcaa522b80e"> </td>
+        <td> <b>Russ</b></td>
+        <td> <i>rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS" target="_blank" > Preview </a> </td>
+    </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 11/14/2021 at 00:09:10 CST
+> Artists last updated on 11/15/2021 at 00:09:05 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
