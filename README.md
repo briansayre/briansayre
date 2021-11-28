@@ -8,16 +8,16 @@
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1787a528fcb316c5b58d6be0511"> </td>
-        <td> <b>6LACK</b></td>
-        <td> <i>trap</i></td>
-        <td> <a href="https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178078fdd734b7f0aa782328428"> </td>
         <td> <b>Bryson Tiller</b></td>
         <td> <i>trap</i></td>
         <td> <a href="https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1787a528fcb316c5b58d6be0511"> </td>
+        <td> <b>6LACK</b></td>
+        <td> <i>trap</i></td>
+        <td> <a href="https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1783ccf79e19759f673aeb27476"> </td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 11/27/2021 at 00:08:43 CST
+> Artists last updated on 11/28/2021 at 00:08:39 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
