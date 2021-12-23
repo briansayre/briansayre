@@ -4,7 +4,7 @@
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178078fdd734b7f0aa782328428"> </td>
         <td> <b>Bryson Tiller</b></td>
-        <td> <i>rap</i></td>
+        <td> <i>trap</i></td>
         <td> <a href="https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
         <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178fc6b2d6c7f3be35e593428d9"> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1788a95cd388f98773b9bc5e9f9"> </td>
         <td> <b>SALES</b></td>
         <td> <i>orlando indie</i></td>
         <td> <a href="https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN" target="_blank" > Preview </a> </td>
@@ -35,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 12/22/2021 at 00:11:08 CST
+> Artists last updated on 12/23/2021 at 00:11:30 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
