@@ -2,16 +2,16 @@
 <table>
 <!-- top_artists starts -->
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1788a95cd388f98773b9bc5e9f9"> </td>
-        <td> <b>SALES</b></td>
-        <td> <i>orlando indie</i></td>
-        <td> <a href="https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178add503b411a712e277895c8a"> </td>
         <td> <b>J. Cole</b></td>
         <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1788a95cd388f98773b9bc5e9f9"> </td>
+        <td> <b>SALES</b></td>
+        <td> <i>orlando indie</i></td>
+        <td> <a href="https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178078fdd734b7f0aa782328428"> </td>
@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab"> </td>
-        <td> <b>Bo Burnham</b></td>
-        <td> <i>comic</i></td>
-        <td> <a href="https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178fe28be1645ae998826cdbc43"> </td>
+        <td> <b>Rex Orange County</b></td>
+        <td> <i>pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/06/2022 at 00:12:16 CST
+> Artists last updated on 01/07/2022 at 00:11:41 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
