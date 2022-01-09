@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178787b04112f1dbd7c8bce18b9"> </td>
-        <td> <b>WILLOW</b></td>
-        <td> <i>post-teen pop</i></td>
-        <td> <a href="https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1780fa22dcc72a09bf9115479b2"> </td>
+        <td> <b>Ruel</b></td>
+        <td> <i>social media pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/08/2022 at 00:11:17 CST
+> Artists last updated on 01/09/2022 at 00:11:23 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
