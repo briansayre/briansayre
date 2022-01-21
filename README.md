@@ -20,6 +20,12 @@
         <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1782183ea958d3777d4c485138a"> </td>
+        <td> <b>Kendrick Lamar</b></td>
+        <td> <i>west coast rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178867008a971fae0f4d913f63a"> </td>
         <td> <b>Kanye West</b></td>
         <td> <i>rap</i></td>
@@ -29,7 +35,7 @@
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/20/2022 at 00:09:38 CST
+> Artists last updated on 01/21/2022 at 00:09:30 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
