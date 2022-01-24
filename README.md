@@ -14,28 +14,28 @@
         <td> <a href="https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178fe28be1645ae998826cdbc43"> </td>
-        <td> <b>Rex Orange County</b></td>
-        <td> <i>pop</i></td>
-        <td> <a href="https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1789e46a78c5cd2f7a8e7669980"> </td>
+        <td> <b>Drake</b></td>
+        <td> <i>toronto rap</i></td>
+        <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1782183ea958d3777d4c485138a"> </td>
-        <td> <b>Kendrick Lamar</b></td>
-        <td> <i>west coast rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1780e1f90bdff70c339838dcf90"> </td>
+        <td> <b>Wale</b></td>
+        <td> <i>urban contemporary</i></td>
+        <td> <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178867008a971fae0f4d913f63a"> </td>
-        <td> <b>Kanye West</b></td>
-        <td> <i>rap</i></td>
-        <td> <a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178c63aded6f4bf4d06d1377106"> </td>
+        <td> <b>Lil Wayne</b></td>
+        <td> <i>trap</i></td>
+        <td> <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/23/2022 at 00:08:43 CST
+> Artists last updated on 01/24/2022 at 00:08:58 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
