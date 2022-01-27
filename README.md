@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178c63aded6f4bf4d06d1377106"> </td>
-        <td> <b>Lil Wayne</b></td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17862016ec6f05e26f230d2e45d"> </td>
+        <td> <b>A$AP Rocky</b></td>
         <td> <i>trap</i></td>
-        <td> <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865" target="_blank" > Preview </a> </td>
+        <td> <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/26/2022 at 00:09:00 CST
+> Artists last updated on 01/27/2022 at 00:10:01 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
