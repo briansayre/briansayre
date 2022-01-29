@@ -26,16 +26,16 @@
         <td> <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178e33ef339180da12882d8db11"> </td>
-        <td> <b>Bas</b></td>
-        <td> <i>underground hip hop</i></td>
-        <td> <a href="https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178c63aded6f4bf4d06d1377106"> </td>
+        <td> <b>Lil Wayne</b></td>
+        <td> <i>trap</i></td>
+        <td> <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 01/28/2022 at 00:08:56 CST
+> Artists last updated on 01/29/2022 at 00:08:33 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
