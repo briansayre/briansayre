@@ -14,28 +14,28 @@
         <td> <a href="https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17896c47414e0bb9511e565b40b"> </td>
-        <td> <b>DWLLRS</b></td>
-        <td> <i>chill pop</i></td>
-        <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178c654cd5b897dea358f9e3da1"> </td>
         <td> <b>Chance the Rapper</b></td>
         <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf" target="_blank" > Preview </a> </td>
     </tr>
     <tr>
-        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f1780e1f90bdff70c339838dcf90"> </td>
-        <td> <b>Wale</b></td>
-        <td> <i>urban contemporary</i></td>
-        <td> <a href="https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE" target="_blank" > Preview </a> </td>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17896c47414e0bb9511e565b40b"> </td>
+        <td> <b>DWLLRS</b></td>
+        <td> <i>chill pop</i></td>
+        <td> <a href="https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR" target="_blank" > Preview </a> </td>
+    </tr>
+    <tr>
+        <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f178c63aded6f4bf4d06d1377106"> </td>
+        <td> <b>Lil Wayne</b></td>
+        <td> <i>trap</i></td>
+        <td> <a href="https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865" target="_blank" > Preview </a> </td>
     </tr>
 <!-- top_artists ends -->
 </table>
 
 <!-- last_updated starts -->
-> Artists last updated on 02/06/2022 at 00:08:44 CST
+> Artists last updated on 02/07/2022 at 00:09:10 CST
 <!-- last_updated ends -->
 
 <a href="https://github.com/briansayre/briansayre/actions?query=workflow%3A%22Update+Spotify+information%22"><img src="https://github.com/briansayre/briansayre/workflows/Update%20Spotify%20information/badge.svg" align="left" alt="Update information"></a>
