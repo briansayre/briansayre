@@ -65,7 +65,7 @@ def fetch_spotify_top_artists():
         redirect_uri=SPOTIPY_REDIRECT_URI
     )
     sp = spotipy.Spotify(auth_manager=auth_manager)
-    results = sp.current_user_top_artists(limit=5, offset=0, time_range='long_term')
+    results = sp.current_user_top_artists(limit=5, offset=0, time_range='medium_term')
     print(results)
     for item in results['items']:
         artist_name = item['name']
