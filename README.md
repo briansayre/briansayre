@@ -6,8 +6,8 @@
         <td> <b>J. Cole</b></td>
         <td> <i>rap</i></td>
         <td> <a href="https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5" target="_blank" > Preview </a> </td>
-    </tr>
-    <tr>
+    </tr> 
+    <tr> 
         <td> <img height="32px" src="https://i.scdn.co/image/ab6761610000f17896c47414e0bb9511e565b40b"> </td>
         <td> <b>DWLLRS</b></td>
         <td> <i>chill pop</i></td>
